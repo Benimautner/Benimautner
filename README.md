@@ -1,4 +1,4 @@
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=Benimautner&show_icons=true&theme=vue-dark&count_private=true)
+![My Github Stats](https://github-readme-stats2-git-main-benimautner.vercel.app/api?show_icons=true&username=Benimautner&count_private=true&theme=vue-dark)
 
 You can support me by buying me a coffee :)
 
